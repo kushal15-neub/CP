@@ -1,0 +1,1 @@
+{"name":"Local: tik","url":"c:\\Users\\user\\OneDrive\\Attachments\\Desktop\\cpp\\tik.cpp","tests":[{"id":1741338801966,"input":"7\n0\n5\n15\n42\n1337\n17101997\n998244353\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Attachments\\Desktop\\cpp\\tik.cpp","group":"local","local":true}

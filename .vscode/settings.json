@@ -5,7 +5,11 @@
         "cmath": "cpp",
         "iosfwd": "cpp",
         "majority_elements": "c",
-        "string": "cpp"
+        "string": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp",
+        "deque": "cpp",
+        "vector": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled",
     "git.enabled": true
