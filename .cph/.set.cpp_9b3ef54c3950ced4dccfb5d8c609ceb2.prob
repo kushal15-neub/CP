@@ -1,0 +1,1 @@
+{"name":"Local: set","url":"c:\\Users\\user\\OneDrive\\Attachments\\Desktop\\cpp\\set.cpp","tests":[{"id":1738938417731,"input":"1\n5 3\n2 1 7 4 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\user\\OneDrive\\Attachments\\Desktop\\cpp\\set.cpp","group":"local","local":true}
